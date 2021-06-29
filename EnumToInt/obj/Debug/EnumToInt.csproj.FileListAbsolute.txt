@@ -1,0 +1,14 @@
+C:\Users\lucca\source\repos\EnumToInt\EnumToInt\bin\Debug\EnumToInt.exe.config
+C:\Users\lucca\source\repos\EnumToInt\EnumToInt\bin\Debug\EnumToInt.exe
+C:\Users\lucca\source\repos\EnumToInt\EnumToInt\bin\Debug\EnumToInt.pdb
+C:\Users\lucca\source\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.csprojAssemblyReference.cache
+C:\Users\lucca\source\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.csproj.CoreCompileInputs.cache
+C:\Users\lucca\source\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.exe
+C:\Users\lucca\source\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.pdb
+C:\Users\juan_\Desktop\repos\EnumToInt\EnumToInt\bin\Debug\EnumToInt.exe.config
+C:\Users\juan_\Desktop\repos\EnumToInt\EnumToInt\bin\Debug\EnumToInt.exe
+C:\Users\juan_\Desktop\repos\EnumToInt\EnumToInt\bin\Debug\EnumToInt.pdb
+C:\Users\juan_\Desktop\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.csproj.AssemblyReference.cache
+C:\Users\juan_\Desktop\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Desktop\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.exe
+C:\Users\juan_\Desktop\repos\EnumToInt\EnumToInt\obj\Debug\EnumToInt.pdb
